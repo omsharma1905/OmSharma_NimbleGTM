@@ -14,7 +14,7 @@ I’m interested in AI, full-stack development, data visualization, and building
 
 ### Resume
 
-📄 [View / Download My Resume](./Omsharma_NimbleGTM.pdf)
+📄 [View / Download My Resume](./OmSharma_NimbleGTM.pdf)
 
 ### Connect
 
